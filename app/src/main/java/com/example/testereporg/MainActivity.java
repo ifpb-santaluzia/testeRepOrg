@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Teste 2");
         System.out.println("Pedro");
         System.out.println("Alexandre");
+        System.out.println("João");
+        System.out.println("Maria");
     }
 }
