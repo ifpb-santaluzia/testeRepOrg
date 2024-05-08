@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
         System.out.println("Teste 2");
+        System.out.println("No teste");
     }
 }
