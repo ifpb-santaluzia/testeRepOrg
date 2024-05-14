@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         });
         System.out.println("Teste 2");
         System.out.println("No teste");
+        System.out.println("teste");
     }
 }
