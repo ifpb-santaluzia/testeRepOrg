@@ -21,6 +21,5 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
         System.out.println("test");
-        System.out.println();
     }
 }
